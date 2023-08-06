@@ -1,0 +1,7 @@
+.todo-length-visible {
+  display: block;
+}
+
+.todo-length-invisible {
+  display: none;
+}
