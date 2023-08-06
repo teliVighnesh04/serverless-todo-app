@@ -2,12 +2,14 @@
 # Serverless ToDo App
 ###  https://dev.d1zjksvlrju47y.amplifyapp.com/
 
-
+![Todo-App](https://github.com/teliVighnesh04/serverless-todo-app/blob/main/images/ToDo-App.png)
 
 "Todo App" is a simple yet interactive web application that allows users to efficiently manage their tasks. With a clean and intuitive interface, users can easily add new tasks by providing a title and description, which are then seamlessly integrated into the backend through API requests. The app fetches and displays the list of todos using GET requests, offering a comprehensive view of the tasks at hand. For enhanced usability, each task is equipped with "Update" and "Delete" buttons that allow users to modify and remove tasks with ease. The project combines AWS Serverless services to create a seamless and dynamic task management experience.
 
 
 ## Architecture
+![Architecture](https://github.com/teliVighnesh04/serverless-todo-app/blob/main/images/Architecture.png)
+
 ## Deployment Steps Performed
 Here are the steps I followed to deploy the "ToDo" app:
 
